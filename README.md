@@ -6,7 +6,6 @@ Um material que ensina a programar usando Python, passando pelos conceitos bási
 <h2>Tabela de Conteúdos</h2>
 
 <ol start=0>
-    <li>Introdução</li>
     <br />
     <li>Introdução
         <ol style="list-style-type: lower-alpha;">
@@ -24,6 +23,8 @@ Um material que ensina a programar usando Python, passando pelos conceitos bási
             <li>Olá, mundo!</li>
             <li>Variáveis e tipos</li>
             <li>Operadores e input do usuário</li>
+            <li>Erros comuns e como lidar</li>
+            <li>Exercícios</li>
         </ol>
     </li>
     <br />
@@ -34,28 +35,74 @@ Um material que ensina a programar usando Python, passando pelos conceitos bási
             <li>Operadores lógicos</li>
             <li>Execução Condicional</li>
             <li>Encadeamento e Aninhamento</if>
+            <li>Erros comuns e como lidar</li>
+            <li>Exercícios</li>
         </ol>
     </li>
     <br />
-    <li>
+    <li>Comandos de repetição (loops)
         <ol style="list-style-type: lower-alpha;">
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
+            <li>For</li>
+            <li>While</li>
+            <li>Quando usar For e quando usar While</li>
+            <li>Erros comuns e como lidar</li>
+            <li>Exercícios</li>
         </ol>
     </li>
     <br />
-    <li></li>
-    <br />
-    <li>
+    <li>Tuplas, Listas e Mutabilidade
         <ol style="list-style-type: lower-alpha;">
-            <li></li>
-            <li></li>
-            <li></li>
-            <li></li>
+            <li>String Slicing</li>
+            <li>Tuplas</li>
+            <li>Listas</li>
+            <li>Vetores e Listas</li>
+            <li>Matrizes</li>
+            <li>Erros comuns e como lidar</li>
+            <li>Exercícios</li>
         </ol>
+    </li>
     <br />
-    <li></li>
+    <li>Funções e Abstração
+        <ol style="list-style-type: lower-alpha;">
+            <li>O que é uma função</li>
+            <li>Definindo uma função</li>
+            <li>A função main()</li>
+            <li>Variáveis globais</li>
+            <li>Erros comuns e como lidar</li>
+            <li>Exercícios</li>
+        </ol>
+    </li>
+    <br />
+    <li>Looping nos Dicionários
+        <ol style="list-style-type: lower-alpha;">
+            <li>O que é</li>
+            <li>Estrutura básica</li>
+            <li></li>
+            <li>Erros comuns e como lidar</li>
+            <li>Exercícios</li>
+        </ol>
+    </li>
+    <br />
+    <li>Recursão
+        <ol style="list-style-type: lower-alpha;">
+            <li>O que é</li>
+            <li>Estrutura básica</li>
+            <li>Recursão infinita</li>
+            <li>Erros comuns e como lidar</li>
+            <li>Exercícios</li>
+        </ol>
+    </li>
+    <br />
+    <li>Arquivos
+        <ol style="list-style-type: lower-alpha;">
+            <li>Persistência</li>
+            <li>Abrindo arquivos</li>
+            <li>Lendo arquivos de texto</li>
+            <li>Procurando em um arquivo</li>
+            <li>Alterar arquivos</li>
+            <li>Erros comuns e como lidar</li>
+            <li>Exercícios</li>
+        </ol>
+    </li>
+    <br />
 </ol>
