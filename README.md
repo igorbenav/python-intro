@@ -1,14 +1,14 @@
 # python-intro
 Um material que ensina a programar usando Python, passando pelos conceitos básicos de programação até orientação a objetos e bibliotecas de manipulação de dados, com um gostinho de algoritmos e complexidade no final.
 
-A Parte 1 tem conceitos básicos de programação, úteis para qualquer pessoa que quer usar isso em sua vida. A parte 2 ensina algumas bibliotecas de matemática, manipulação de dados e visualização como numpy, pandas e matplotlib. Essa parte será especialmente útil pra quem quer trabalhar com dados. Por fim, a parte 3 é especialmente útil àqueles que querem avançar nos estudos em ciência da computação e resolução de problemas.
+A Parte 1 tem conceitos básicos de programação, úteis para qualquer pessoa que quer usar isso em sua vida. A parte 2 ensina algumas bibliotecas de matemática, manipulação de dados e visualização como numpy, pandas e matplotlib. Essa parte será especialmente útil pra quem quer trabalhar com dados.
 
 # Tabela de Conteúdos
 
 <h2>Tabela de Conteúdos</h2>
 Prefácio
 
-<h3>Parte 1:</h3>
+<h3>Parte 1: Programação</h3>
 <ol start=0>
     <br />
     <li>Introdução
@@ -77,11 +77,11 @@ Prefácio
         </ol>
     </li>
     <br />
-    <li>Looping nos Dicionários
+    <li>Dicionários
         <ol style="list-style-type: lower-alpha;">
             <li>O que é</li>
             <li>Estrutura básica</li>
-            <li></li>
+            <li>Looping nos Dicionários</li>
             <li>Erros comuns e como lidar</li>
             <li>Exercícios</li>
         </ol>
@@ -140,16 +140,10 @@ Prefácio
     <br />
 </ol>
 
-<h3>Parte 2:</h3>
+<h3>Parte 2: Dados</h3>
 
 <ol start=12>
-    <li>Introdução
-        <ol style="list-style-type: lower-alpha;">
-            <li></li>
-            <li></li>
-            <li></li>
-        </ol>
-    </li>
+    <li>Introdução</li>
     <br />
     <li>Numpy
         <ol style="list-style-type: lower-alpha;">
@@ -174,7 +168,13 @@ Prefácio
             <li></li>
         </ol>
     </li>
+    <li>Seaborn
+        <ol style="list-style-type: lower-alpha;">
+            <li></li>
+            <li></li>
+            <li></li>
+        </ol>
+    </li>
 </ol>
-
-<h3>Parte 3:</h3>
-
+Soluções dos Exercícios
+Referências
