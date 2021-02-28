@@ -1,10 +1,14 @@
 # python-intro
-Um material que ensina a programar usando Python, passando pelos conceitos básicos de programação até orientação a objetos e bibliotecas de manipulação de dados.
+Um material que ensina a programar usando Python, passando pelos conceitos básicos de programação até orientação a objetos e bibliotecas de manipulação de dados, com um gostinho de algoritmos e complexidade no final.
+
+A Parte 1 tem conceitos básicos de programação, úteis para qualquer pessoa que quer usar isso em sua vida. A parte 2 ensina algumas bibliotecas de matemática, manipulação de dados e visualização como numpy, pandas e matplotlib. Essa parte será especialmente útil pra quem quer trabalhar com dados. Por fim, a parte 3 é especialmente útil àqueles que querem avançar nos estudos em ciência da computação e resolução de problemas.
 
 # Tabela de Conteúdos
 
 <h2>Tabela de Conteúdos</h2>
+Prefácio
 
+<h3>Parte 1:</h3>
 <ol start=0>
     <br />
     <li>Introdução
@@ -105,4 +109,72 @@ Um material que ensina a programar usando Python, passando pelos conceitos bási
         </ol>
     </li>
     <br />
+        <li>Erros e Exceções
+        <ol style="list-style-type: lower-alpha;">
+            <li>Lidando com exceções</li>
+            <li>Tipos de erros</li>
+            <li>Debugging</li>
+            <li>Exercícios</li>
+        </ol>
+    </li>
+    <br />
+        <li>Orientação a Objetos
+        <ol style="list-style-type: lower-alpha;">
+            <li>Classes e Tipos Abstratos de Dados</li>
+            <li>Herança</li>
+            <li>Encapsulamento</li>
+            <li>Tipos do Python e seus métodos</li>
+            <li>Erros comuns e como lidar</li>
+            <li>Exercícios</li>
+        </ol>
+    </li>
+    <br />
+        <li>Módulos e bibliotecas
+        <ol style="list-style-type: lower-alpha;">
+            <li>O que é um módulo</li>
+            <li>O que é uma biblioteca</li>
+            <li>Como importar</li>
+            <li>Exercícios</li>
+        </ol>
+    </li>
+    <br />
 </ol>
+
+<h3>Parte 2:</h3>
+
+<ol start=12>
+    <li>Introdução
+        <ol style="list-style-type: lower-alpha;">
+            <li></li>
+            <li></li>
+            <li></li>
+        </ol>
+    </li>
+    <br />
+    <li>Numpy
+        <ol style="list-style-type: lower-alpha;">
+            <li></li>
+            <li></li>
+            <li></li>
+        </ol>
+    </li>
+    <br />
+    <li>Pandas
+        <ol style="list-style-type: lower-alpha;">
+            <li></li>
+            <li></li>
+            <li></li>
+        </ol>
+    </li>
+    <br />
+    <li>Matplotlib
+        <ol style="list-style-type: lower-alpha;">
+            <li></li>
+            <li></li>
+            <li></li>
+        </ol>
+    </li>
+</ol>
+
+<h3>Parte 3:</h3>
+
