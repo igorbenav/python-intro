@@ -1,11 +1,14 @@
-<h1>python-intro</h1>
+<h1>To do list</h1>
 
-Um material que ensina a programar usando Python, passando pelos conceitos básicos de programação até orientação a objetos e bibliotecas de manipulação de dados, com um gostinho de algoritmos e complexidade no final.
+<h2>Específico:</h2>
+<ul>
+    <li>Operadores bitwise, &, |, ^</li>
+    <li>Operadores is e is not</li>
+    <li>Tipo None</li>
+    <li>Expressões ternárias</li>
+</ul>
 
-A Parte 1 tem conceitos básicos de programação, úteis para qualquer pessoa que quer usar isso em sua vida. A parte 2 ensina conceitos de projetos de software, como estruturar, controle de versão, documentação e mais algumas coisas úteis na prática.
-
-
-<h1>Tabela de Conteúdos</h1>
+<h2>Geral</h2>
 Prefácio
 
 <h3>Parte 1: Programação</h3>
