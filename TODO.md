@@ -6,6 +6,7 @@
     <li>Operadores is e is not</li>
     <li>Tipo None</li>
     <li>Expressões ternárias</li>
+    <li>List, tuple, set, dict comprehension</li>
 </ul>
 
 <h2>Geral</h2>
@@ -126,6 +127,15 @@ Prefácio
             <li>Tipos de erros</li>
             <li>Debugging</li>
             <li>Resumo da seção</li>
+            <li>Exercícios</li>
+        </ol>
+    </li>
+    <br />
+        <li>Recursos avançados
+        <ol style="list-style-type: lower-alpha;">
+            <li>List Comprehension</li>
+            <li>Dict Comprehension</li>
+            <li>Expressões ternárias</li>
             <li>Exercícios</li>
         </ol>
     </li>
