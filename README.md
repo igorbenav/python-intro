@@ -13,10 +13,10 @@ Prefácio
     <br />
     <li>Introdução
         <ol style="list-style-type: lower-alpha;">
-            <li><s>Ciência da Computação</s></li>
-            <li><s>Programação</s></li>
-            <li><s>O que é um programa</s></li>
-            <li><s>O que é uma linguagem</s></li>
+            <li>Ciência da Computação</li>
+            <li>Programação</li>
+            <li>O que é um programa</li>
+            <li>O que é uma linguagem</li>
             <li>Conversando com o computador</li>
             <li>Instalando o Python</li>
         </ol>
@@ -24,24 +24,22 @@ Prefácio
     <br />
     <li>Primeiro programa
         <ol style="list-style-type: lower-alpha;">
-            <li><s>Olá, mundo!</s></li>
-            <li><s>Variáveis e tipos</s></li>
-            <li><s>Operadores e input do usuário</s></li>
+            <li>Olá, mundo!</li>
+            <li>Variáveis e tipos</li>
+            <li>Operadores e input do usuário</li>
             <li>Erros comuns e como lidar</li>
-            <li>Resumo da seção</li>
-            <li><s>Exercícios</s></li>
+            <li>Exercícios</li>
         </ol>
     </li>
     <br />
     <li>Ramificação de Programas
         <ol style="list-style-type: lower-alpha;">
-            <li><s>Visão rápida de lógica</s></li>
-            <li><s>Booleanos</s></li>
-            <li><s>Operadores lógicos</s></li>
-            <li><s>Execução Condicional</s></li>
-            <li><s>Encadeamento e Aninhamento</s></if>
+            <li>Visão rápida de lógica</li>
+            <li>Booleanos</li>
+            <li>Operadores lógicos</li>
+            <li>Execução Condicional</li>
+            <li>Encadeamento e Aninhamento</li>
             <li>Erros comuns e como lidar</li>
-            <li>Resumo da seção</li>
             <li>Exercícios</li>
         </ol>
     </li>
@@ -52,7 +50,6 @@ Prefácio
             <li>While</li>
             <li>Quando usar For e quando usar While</li>
             <li>Erros comuns e como lidar</li>
-            <li>Resumo da seção</li>
             <li>Exercícios</li>
         </ol>
     </li>
@@ -62,10 +59,8 @@ Prefácio
             <li>String Slicing</li>
             <li>Tuplas</li>
             <li>Listas</li>
-            <li>Vetores e Listas</li>
             <li>Matrizes</li>
             <li>Erros comuns e como lidar</li>
-            <li>Resumo da seção</li>
             <li>Exercícios</li>
         </ol>
     </li>
@@ -77,7 +72,6 @@ Prefácio
             <li>A função main()</li>
             <li>Variáveis globais</li>
             <li>Erros comuns e como lidar</li>
-            <li>Resumo da seção</li>
             <li>Exercícios</li>
         </ol>
     </li>
@@ -88,7 +82,6 @@ Prefácio
             <li>Estrutura básica</li>
             <li>Looping nos Dicionários</li>
             <li>Erros comuns e como lidar</li>
-            <li>Resumo da seção</li>
             <li>Exercícios</li>
         </ol>
     </li>
@@ -99,7 +92,6 @@ Prefácio
             <li>Estrutura básica</li>
             <li>Recursão infinita</li>
             <li>Erros comuns e como lidar</li>
-            <li>Resumo da seção</li>
             <li>Exercícios</li>
         </ol>
     </li>
@@ -112,7 +104,6 @@ Prefácio
             <li>Procurando em um arquivo</li>
             <li>Alterar arquivos</li>
             <li>Erros comuns e como lidar</li>
-            <li>Resumo da seção</li>
             <li>Exercícios</li>
         </ol>
     </li>
@@ -122,7 +113,15 @@ Prefácio
             <li>Lidando com exceções</li>
             <li>Tipos de erros</li>
             <li>Debugging</li>
-            <li>Resumo da seção</li>
+            <li>Exercícios</li>
+        </ol>
+    </li>
+    <br />
+        <li>Recursos avançados
+        <ol style="list-style-type: lower-alpha;">
+            <li>List Comprehension</li>
+            <li>Dict Comprehension</li>
+            <li>Expressões ternárias</li>
             <li>Exercícios</li>
         </ol>
     </li>
@@ -134,7 +133,6 @@ Prefácio
             <li>Encapsulamento</li>
             <li>Tipos do Python e seus métodos</li>
             <li>Erros comuns e como lidar</li>
-            <li>Resumo da seção</li>
             <li>Exercícios</li>
         </ol>
     </li>
@@ -144,7 +142,6 @@ Prefácio
             <li>O que é um módulo</li>
             <li>O que é uma biblioteca</li>
             <li>Como importar</li>
-            <li>Resumo da seção</li>
             <li>Exercícios</li>
         </ol>
     </li>
@@ -163,5 +160,10 @@ Prefácio
         </ol>
     </li>
 </ol>
-Soluções dos Exercícios
-Referências
+
+<ol start=14>
+    <li>Soluções dos Exercícios</li>
+    <br />
+    <li>Referências</li>
+</ol>
+<br>

@@ -10,8 +10,6 @@
 </ul>
 
 <h2>Geral</h2>
-Prefácio
-
 <h3>Parte 1: Programação</h3>
 <ol start=0>
     <br />
@@ -32,7 +30,6 @@ Prefácio
             <li><s>Variáveis e tipos</s></li>
             <li><s>Operadores e input do usuário</s></li>
             <li>Erros comuns e como lidar</li>
-            <li>Resumo da seção</li>
             <li><s>Exercícios</s></li>
         </ol>
     </li>
@@ -41,22 +38,20 @@ Prefácio
         <ol style="list-style-type: lower-alpha;">
             <li><s>Visão rápida de lógica</s></li>
             <li><s>Booleanos</s></li>
-            <li><s>Operadores lógicos</s></li>
+            <li>Operadores lógicos</li>
             <li><s>Execução Condicional</s></li>
-            <li><s>Encadeamento e Aninhamento</s></if>
+            <li><s>Encadeamento e Aninhamento</s></li>
             <li>Erros comuns e como lidar</li>
-            <li>Resumo da seção</li>
             <li>Exercícios</li>
         </ol>
     </li>
     <br />
     <li>Comandos de repetição (loops)
         <ol style="list-style-type: lower-alpha;">
-            <li>For</li>
-            <li>While</li>
+            <li><s>For</s></li>
+            <li><s>While</s></li>
             <li>Quando usar For e quando usar While</li>
             <li>Erros comuns e como lidar</li>
-            <li>Resumo da seção</li>
             <li>Exercícios</li>
         </ol>
     </li>
@@ -64,35 +59,31 @@ Prefácio
     <li>Tuplas, Listas e Mutabilidade
         <ol style="list-style-type: lower-alpha;">
             <li>String Slicing</li>
-            <li>Tuplas</li>
-            <li>Listas</li>
-            <li>Vetores e Listas</li>
-            <li>Matrizes</li>
+            <li><s>Tuplas</s></li>
+            <li><s>Listas</s></li>
+            <li><s>Matrizes</s></li>
             <li>Erros comuns e como lidar</li>
-            <li>Resumo da seção</li>
-            <li>Exercícios</li>
+            <li><s>Exercícios</s></li>
         </ol>
     </li>
     <br />
     <li>Funções e Abstração
         <ol style="list-style-type: lower-alpha;">
-            <li>O que é uma função</li>
-            <li>Definindo uma função</li>
-            <li>A função main()</li>
-            <li>Variáveis globais</li>
+            <li><s>O que é uma função</s></li>
+            <li><s>Definindo uma função</s></li>
+            <li><s>A função main()</s></li>
+            <li><s>Variáveis globais</s></li>
             <li>Erros comuns e como lidar</li>
-            <li>Resumo da seção</li>
             <li>Exercícios</li>
         </ol>
     </li>
     <br />
     <li>Dicionários
         <ol style="list-style-type: lower-alpha;">
-            <li>O que é</li>
-            <li>Estrutura básica</li>
-            <li>Looping nos Dicionários</li>
+            <li><s>O que é</s></li>
+            <li><s>Estrutura básica</s></li>
+            <li><s>Looping nos Dicionários</s></li>
             <li>Erros comuns e como lidar</li>
-            <li>Resumo da seção</li>
             <li>Exercícios</li>
         </ol>
     </li>
@@ -103,7 +94,6 @@ Prefácio
             <li>Estrutura básica</li>
             <li>Recursão infinita</li>
             <li>Erros comuns e como lidar</li>
-            <li>Resumo da seção</li>
             <li>Exercícios</li>
         </ol>
     </li>
@@ -116,7 +106,6 @@ Prefácio
             <li>Procurando em um arquivo</li>
             <li>Alterar arquivos</li>
             <li>Erros comuns e como lidar</li>
-            <li>Resumo da seção</li>
             <li>Exercícios</li>
         </ol>
     </li>
@@ -126,7 +115,6 @@ Prefácio
             <li>Lidando com exceções</li>
             <li>Tipos de erros</li>
             <li>Debugging</li>
-            <li>Resumo da seção</li>
             <li>Exercícios</li>
         </ol>
     </li>
@@ -147,7 +135,6 @@ Prefácio
             <li>Encapsulamento</li>
             <li>Tipos do Python e seus métodos</li>
             <li>Erros comuns e como lidar</li>
-            <li>Resumo da seção</li>
             <li>Exercícios</li>
         </ol>
     </li>
@@ -157,7 +144,6 @@ Prefácio
             <li>O que é um módulo</li>
             <li>O que é uma biblioteca</li>
             <li>Como importar</li>
-            <li>Resumo da seção</li>
             <li>Exercícios</li>
         </ol>
     </li>
@@ -176,5 +162,10 @@ Prefácio
         </ol>
     </li>
 </ol>
-Soluções dos Exercícios
-Referências
+
+<ol start=14>
+    <li>Soluções dos Exercícios</li>
+    <br />
+    <li>Referências</li>
+</ol>
+<br>
